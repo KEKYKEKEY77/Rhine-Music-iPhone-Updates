@@ -12,5 +12,12 @@
     "size": 33544202,
     "sha256": "9c2ac5147a560f3b9929be47cb8cf7fb11bed499bc272b53f7ad31a05cf4f86d",
     "asset": "Rhine-Music-0.5.4-b1-unsigned.ipa"
+  },
+  "v0.5.5-b1": {
+    "version": "0.5.5",
+    "buildVersion": "1",
+    "size": 33545602,
+    "sha256": "4cda00c960999e9fb7f4517ca7f7fa824d6d9adb269ea4f6b516c2f70bd3d199",
+    "asset": "Rhine-Music-0.5.5-b1-unsigned.ipa"
   }
 }

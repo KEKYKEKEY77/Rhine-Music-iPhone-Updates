@@ -17,6 +17,15 @@
       "iconURL": "https://raw.githubusercontent.com/KEKYKEKEY77/Rhine-Music-iPhone-Updates/main/icon.png",
       "versions": [
         {
+          "version": "0.5.5",
+          "buildVersion": "1",
+          "minOSVersion": "15.0",
+          "size": 33545602,
+          "date": "2026-10-03T02:50:37+00:00",
+          "localizedDescription": "新增手机常规手势：专辑架快速上下滑动后惯性减速，重新触摸停止；详情文字区左右滑切专辑，左缘右滑返回或关闭面板。保留歌曲列表上下滚动、封面转动和两次点击打开，防止滑动误播放。减少动态效果关闭惯性。",
+          "downloadURL": "https://github.com/KEKYKEKEY77/Rhine-Music-iPhone-Updates/releases/download/v0.5.5-b1/Rhine-Music-0.5.5-b1-unsigned.ipa"
+        },
+        {
           "version": "0.5.4",
           "buildVersion": "1",
           "minOSVersion": "15.0",
@@ -44,6 +53,15 @@
     }
   ],
   "news": [
+    {
+      "title": "Rhine Music 0.5.5",
+      "identifier": "rhine-0.5.5-b1",
+      "caption": "新增手机常规手势：专辑架快速上下滑动后惯性减速，重新触摸停止；详情文字区左右滑切专辑，左缘右滑返回或关闭面板。保留歌曲列表上下滚动、封面转动和两次点击打开，防止滑动误播放。减少动态效果关闭惯性。",
+      "date": "2026-10-03T02:50:37+00:00",
+      "notify": true,
+      "url": "https://github.com/KEKYKEKEY77/Rhine-Music-iPhone-Updates/releases/tag/v0.5.5-b1",
+      "appID": "cc.rhine.music.ios"
+    },
     {
       "title": "Rhine Music 0.5.4",
       "identifier": "rhine-0.5.4-b1",
