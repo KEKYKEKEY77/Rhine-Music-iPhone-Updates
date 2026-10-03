@@ -17,6 +17,15 @@
       "iconURL": "https://raw.githubusercontent.com/KEKYKEKEY77/Rhine-Music-iPhone-Updates/main/icon.png",
       "versions": [
         {
+          "version": "0.5.4",
+          "buildVersion": "1",
+          "minOSVersion": "15.0",
+          "size": 33544202,
+          "date": "2026-10-03T01:07:20+00:00",
+          "localizedDescription": "手机专辑架支持手指连续拖动：上下切专辑、左右切分组，松手吸附。第一次点击选中，再次单击同一张打开；拖动、取消和多指操作不会误开专辑。保留本地专辑资料与封面缓存。",
+          "downloadURL": "https://github.com/KEKYKEKEY77/Rhine-Music-iPhone-Updates/releases/download/v0.5.4-b1/Rhine-Music-0.5.4-b1-unsigned.ipa"
+        },
+        {
           "version": "0.5.3",
           "buildVersion": "1",
           "minOSVersion": "15.0",
@@ -35,6 +44,15 @@
     }
   ],
   "news": [
+    {
+      "title": "Rhine Music 0.5.4",
+      "identifier": "rhine-0.5.4-b1",
+      "caption": "手机专辑架支持手指连续拖动：上下切专辑、左右切分组，松手吸附。第一次点击选中，再次单击同一张打开；拖动、取消和多指操作不会误开专辑。保留本地专辑资料与封面缓存。",
+      "date": "2026-10-03T01:07:20+00:00",
+      "notify": true,
+      "url": "https://github.com/KEKYKEKEY77/Rhine-Music-iPhone-Updates/releases/tag/v0.5.4-b1",
+      "appID": "cc.rhine.music.ios"
+    },
     {
       "title": "Rhine Music 0.5.3",
       "identifier": "rhine-0.5.3-b1",
